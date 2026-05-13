@@ -1,6 +1,6 @@
 # 🍕 Pizza Ordering System (C# WinForms)
 
-[![Status](https://img.shields.io/badge/Status-Demo/Testing-orange)](https://github.com/)
+[![Status](https://img.shields.io/badge/Status-Demo/Testing-orange)]()
 [![Framework](https://img.shields.io/badge/Framework-.NET-blue)](https://dotnet.microsoft.com/)
 
 An interactive desktop application built with **C#** and **Windows Forms**. This project simulates a pizza restaurant's ordering process, focusing on dynamic UI handling and user-friendly navigation.
@@ -37,7 +37,7 @@ This application was developed as an educational project to demonstrate the use 
 ## 🧪 How to Test the Application
 You don't need Visual Studio to try it! Follow these steps for a **Quick Trial**:
 
-1.  **Download:** Go to the [Releases]([https://github.com/](https://github.com/zuhairSh/Pizza-Restaurant-App)) section on the right.
+1.  **Download:** Go to the [Releases]([https://github.com/zuhairSh/Pizza-Restaurant-App]) section on the right.
 2.  **Extract:** Download the `Pizza-App-Demo.zip` and extract it to your computer.
 3.  **Run:** Open the folder and double-click `Pizza_Restaurant.exe`.
 4.  **Explore:** Try selecting different sizes and toppings to see the price change!
@@ -47,7 +47,7 @@ You don't need Visual Studio to try it! Follow these steps for a **Quick Trial**
 ## 🛠 Tech Stack
 *   **Language:** C# (#CSharp)
 *   **UI Framework:** Windows Forms (WinForms)
-*   **IDE:** Visual Studio 2022
+*   **IDE:** Visual Studio 2019
 *   **Platform:** .NET Framework / .NET Core
 
 ---
