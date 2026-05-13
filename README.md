@@ -15,8 +15,8 @@ A desktop application built with **C#** and **Windows Forms** that allows users 
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="image_1fdd34.jpg" width="400" title="Main Menu">
-  <img src="{6A0280AF-CF76-4C7E-B05F-7FEC6CBDFD39}.png" width="400" title="Order Form">
+  <img src="Pizza1.jpg" width="400" title="Main Menu">
+  <img src="Pizza2.png" width="400" title="Order Form">
 </p>
 
 ## 🛠 Technologies Used
