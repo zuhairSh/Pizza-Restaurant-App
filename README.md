@@ -2,6 +2,9 @@
 
 [![Status](https://img.shields.io/badge/Status-Demo/Testing-orange)]()
 [![Framework](https://img.shields.io/badge/Framework-.NET-blue)](https://dotnet.microsoft.com/)
+![C#](https://shields.io)
+![Windows Forms](https://shields.io)
+
 
 An interactive desktop application built with **C#** and **Windows Forms**. This project simulates a pizza restaurant's ordering process, focusing on dynamic UI handling and user-friendly navigation.
 
