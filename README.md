@@ -37,7 +37,7 @@ This application was developed as an educational project to demonstrate the use 
 ## 🧪 How to Test the Application
 You don't need Visual Studio to try it! Follow these steps for a **Quick Trial**:
 
-1.  **Download:** Go to the [Releases](https://github.com/) section on the right.
+1.  **Download:** Go to the [Releases]([https://github.com/](https://github.com/zuhairSh/Pizza-Restaurant-App)) section on the right.
 2.  **Extract:** Download the `Pizza-App-Demo.zip` and extract it to your computer.
 3.  **Run:** Open the folder and double-click `Pizza_Restaurant.exe`.
 4.  **Explore:** Try selecting different sizes and toppings to see the price change!
@@ -54,7 +54,7 @@ You don't need Visual Studio to try it! Follow these steps for a **Quick Trial**
 
 ## 👨‍💻 Installation for Developers
 If you want to explore the source code:
-1.  Clone the repository: `git clone https://github.com/zuhairSh/YOUR_REPO_NAME.git`
+1.  Clone the repository: `git clone https://github.com/zuhairSh/Pizza-Restaurant-App.git`
 2.  Open the `.sln` file in **Visual Studio**.
 3.  Restore NuGet packages (if any).
 4.  Press **F5** to run and debug.
